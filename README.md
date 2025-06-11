@@ -7,7 +7,7 @@ The project is entirely self contained in the jupyter notebook. It can be upload
 The only requirements are:
 - Having an [Hugging Face](https://huggingface.co) (HF) account
 - Requesting access to the LLM on HF ([gemma 2](https://huggingface.co/google/gemma-2-9b-it) in our case)
-- Having an HF user access token (see instruction in the notebook)
+- Having an HF user access token (see instructions inside the notebook)
 
 ## 🔄 Pipeline
 The pipeline has 4 main steps:
